@@ -1,1 +1,3 @@
 ADDED file for easy-mode branch
+
+Changed the file to commit in branch
